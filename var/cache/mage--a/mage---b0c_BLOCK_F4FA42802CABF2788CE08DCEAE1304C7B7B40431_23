@@ -1,0 +1,29 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670235054;s:6:"expire";i:1670238654;s:4:"tags";s:46:"b0c_BLOCK_HTML,b0c_CAT_P_23,b0c_CAT_P,b0c_MAGE";}
+
+            <div class="field configurable required">
+            <label class="label" for="attribute137">
+                <span>Size</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[137]"
+                        data-selector="super_attribute[137]"
+                        data-validate="{required:true}"
+                        id="attribute137"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+        {
+            "#product_addtocart_form": {
+                "configurable": {
+                    "spConfig": {"attributes":{"137":{"id":"137","code":"liner_socks_size","label":"Size","options":[{"id":"4","label":"Small","products":["18"]},{"id":"5","label":"Medium","products":["19"]},{"id":"6","label":"Large","products":["22"]},{"id":"7","label":"XLarge","products":["21"]},{"id":"8","label":"2XLarge","products":["20"]}],"position":"0"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"18":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5},"tierPrices":[],"msrpPrice":{"amount":0}},"19":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5},"tierPrices":[],"msrpPrice":{"amount":0}},"22":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5},"tierPrices":[],"msrpPrice":{"amount":0}},"21":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5},"tierPrices":[],"msrpPrice":{"amount":0}},"20":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":7.5},"oldPrice":{"amount":7.5},"basePrice":{"amount":7.5},"finalPrice":{"amount":7.5}},"productId":"23","chooseText":"Choose an Option...","images":{"18":[{"thumb":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/a6f11742303a5a53706a7238bcc0f830\/l\/i\/liner_socks_3.jpeg","img":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/5dd03951f3afca1e9ad8b1895ca122db\/l\/i\/liner_socks_3.jpeg","full":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/712f3e3b15d2ac0461eda9d3a27ade6e\/l\/i\/liner_socks_3.jpeg","caption":"","position":"1","isMain":true,"type":"image","videoUrl":null}],"19":[{"thumb":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/a6f11742303a5a53706a7238bcc0f830\/l\/i\/liner_socks_3.jpeg","img":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/5dd03951f3afca1e9ad8b1895ca122db\/l\/i\/liner_socks_3.jpeg","full":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/712f3e3b15d2ac0461eda9d3a27ade6e\/l\/i\/liner_socks_3.jpeg","caption":"","position":"1","isMain":true,"type":"image","videoUrl":null}],"22":[{"thumb":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/a6f11742303a5a53706a7238bcc0f830\/l\/i\/liner_socks_3.jpeg","img":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/5dd03951f3afca1e9ad8b1895ca122db\/l\/i\/liner_socks_3.jpeg","full":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/712f3e3b15d2ac0461eda9d3a27ade6e\/l\/i\/liner_socks_3.jpeg","caption":"","position":"1","isMain":true,"type":"image","videoUrl":null}],"21":[{"thumb":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/a6f11742303a5a53706a7238bcc0f830\/l\/i\/liner_socks_3.jpeg","img":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/5dd03951f3afca1e9ad8b1895ca122db\/l\/i\/liner_socks_3.jpeg","full":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/712f3e3b15d2ac0461eda9d3a27ade6e\/l\/i\/liner_socks_3.jpeg","caption":"","position":"1","isMain":true,"type":"image","videoUrl":null}],"20":[{"thumb":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/a6f11742303a5a53706a7238bcc0f830\/l\/i\/liner_socks_3.jpeg","img":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/5dd03951f3afca1e9ad8b1895ca122db\/l\/i\/liner_socks_3.jpeg","full":"http:\/\/mediquipstores.local\/media\/catalog\/product\/cache\/712f3e3b15d2ac0461eda9d3a27ade6e\/l\/i\/liner_socks_3.jpeg","caption":"","position":"1","isMain":true,"type":"image","videoUrl":null}]},"index":{"18":{"137":"4"},"19":{"137":"5"},"22":{"137":"6"},"21":{"137":"7"},"20":{"137":"8"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"18":"MQCLS-Small","19":"MQCLS-Medium","22":"MQCLS-Large","21":"MQCLS-XLarge","20":"MQCLS-2XLarge"}},
+                    "gallerySwitchStrategy": "prepend"
+                }
+            },
+            "*" : {
+                "Magento_ConfigurableProduct/js/catalog-add-to-cart": {}
+            }
+        }
+    </script>

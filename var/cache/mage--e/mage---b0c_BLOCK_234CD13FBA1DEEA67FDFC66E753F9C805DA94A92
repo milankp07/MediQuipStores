@@ -1,0 +1,431 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670222210;s:6:"expire";i:1670308610;s:4:"tags";s:33:"b0c_CAT_P,b0c_BLOCK_HTML,b0c_MAGE";}
+
+    <div class="block widget block-new-products grid">
+        <div class="block-title">
+            <strong role="heading" aria-level="2">New Products</strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-new-grid">
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://mediquipstores.local/mediquip-sharp-biohazard-needle-container.html"
+                               class="product-item-photo">
+                                <span class="product-image-container product-image-container-42">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://mediquipstores.local/media/catalog/product/cache/5f3ad322c8cba07371fd98bb0f40b8ee/c/o/cont_1q_1ct_3.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="MediQuip&#x20;Sharps&#x20;Biohazard&#x20;Needle&#x20;Container&#x20;1Qt&#x20;1Ct"/></span>
+</span>
+<style>.product-image-container-42 {
+    width: 240px;
+}
+.product-image-container-42 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-42");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-42  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="MediQuip Sharps Biohazard Needle Container 1Qt 1Ct"
+                                       href="http://mediquipstores.local/mediquip-sharp-biohazard-needle-container.html"
+                                       class="product-item-link">
+                                        MediQuip Sharps Biohazard Needle Container 1Qt 1Ct                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="42" data-price-box="product-id-42">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-42-widget-new-grid"                data-price-amount="5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$5.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/mediquipstores.local\/checkout\/cart\/add\/uenc\/aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw%2C%2C\/product\/42\/","data":{"product":42,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                                type="button"
+                                                                title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/wishlist\/index\/add\/","data":{"product":42,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       class="action towishlist"
+                                                       data-action="add-to-wishlist"
+                                                       title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/catalog\/product_compare\/add\/","data":{"product":"42","uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://mediquipstores.local/mediquip-insulin-pen-needles.html"
+                               class="product-item-photo">
+                                <span class="product-image-container product-image-container-39">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://mediquipstores.local/media/catalog/product/cache/5f3ad322c8cba07371fd98bb0f40b8ee/p/e/penneedle_3.png"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="MediQuip&#x20;Insulin&#x20;Pen&#x20;Needles"/></span>
+</span>
+<style>.product-image-container-39 {
+    width: 240px;
+}
+.product-image-container-39 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-39");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-39  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="MediQuip Insulin Pen Needles"
+                                       href="http://mediquipstores.local/mediquip-insulin-pen-needles.html"
+                                       class="product-item-link">
+                                        MediQuip Insulin Pen Needles                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="39" data-price-box="product-id-39">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-39-widget-new-grid"                data-price-amount="5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$5.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/mediquipstores.local\/checkout\/cart\/add\/uenc\/aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw%2C%2C\/product\/39\/","data":{"product":39,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                                type="button"
+                                                                title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/wishlist\/index\/add\/","data":{"product":39,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       class="action towishlist"
+                                                       data-action="add-to-wishlist"
+                                                       title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/catalog\/product_compare\/add\/","data":{"product":"39","uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://mediquipstores.local/mediquip-g2-blood-glucose-test-strips-50-ct.html"
+                               class="product-item-photo">
+                                <span class="product-image-container product-image-container-40">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://mediquipstores.local/media/catalog/product/cache/5f3ad322c8cba07371fd98bb0f40b8ee/b/g/bgt50ct_3.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="MediQuip&#x20;G2&#x20;Blood&#x20;Glucose&#x20;Test&#x20;Strips&#x20;50Ct"/></span>
+</span>
+<style>.product-image-container-40 {
+    width: 240px;
+}
+.product-image-container-40 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-40");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-40  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="MediQuip G2 Blood Glucose Test Strips 50Ct"
+                                       href="http://mediquipstores.local/mediquip-g2-blood-glucose-test-strips-50-ct.html"
+                                       class="product-item-link">
+                                        MediQuip G2 Blood Glucose Test Strips 50Ct                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="40" data-price-box="product-id-40">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-40-widget-new-grid"                data-price-amount="7.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$7.50</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/mediquipstores.local\/checkout\/cart\/add\/uenc\/aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw%2C%2C\/product\/40\/","data":{"product":40,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                                type="button"
+                                                                title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/wishlist\/index\/add\/","data":{"product":40,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       class="action towishlist"
+                                                       data-action="add-to-wishlist"
+                                                       title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/catalog\/product_compare\/add\/","data":{"product":"40","uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://mediquipstores.local/mediquip-g2-blood-glucose-test-strips-600-ct.html"
+                               class="product-item-photo">
+                                <span class="product-image-container product-image-container-41">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://mediquipstores.local/media/catalog/product/cache/5f3ad322c8cba07371fd98bb0f40b8ee/b/g/bgt600ct_3.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="MediQuip&#x20;G2&#x20;Blood&#x20;Glucose&#x20;Test&#x20;Strips&#x20;600Ct"/></span>
+</span>
+<style>.product-image-container-41 {
+    width: 240px;
+}
+.product-image-container-41 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-41");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-41  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="MediQuip G2 Blood Glucose Test Strips 600Ct"
+                                       href="http://mediquipstores.local/mediquip-g2-blood-glucose-test-strips-600-ct.html"
+                                       class="product-item-link">
+                                        MediQuip G2 Blood Glucose Test Strips 600Ct                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="41" data-price-box="product-id-41">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-41-widget-new-grid"                data-price-amount="25"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$25.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/mediquipstores.local\/checkout\/cart\/add\/uenc\/aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw%2C%2C\/product\/41\/","data":{"product":41,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                                type="button"
+                                                                title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/wishlist\/index\/add\/","data":{"product":41,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       class="action towishlist"
+                                                       data-action="add-to-wishlist"
+                                                       title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/catalog\/product_compare\/add\/","data":{"product":"41","uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://mediquipstores.local/mediquip-sharps-biohazard-needle-container.html"
+                               class="product-item-photo">
+                                <span class="product-image-container product-image-container-44">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://mediquipstores.local/media/catalog/product/cache/5f3ad322c8cba07371fd98bb0f40b8ee/1/q/1q2ctnc_3.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="MediQuip&#x20;Sharps&#x20;Biohazard&#x20;Needle&#x20;Container&#x20;1Qt&#x20;2Ct"/></span>
+</span>
+<style>.product-image-container-44 {
+    width: 240px;
+}
+.product-image-container-44 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-44");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-44  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="MediQuip Sharps Biohazard Needle Container 1Qt 2Ct"
+                                       href="http://mediquipstores.local/mediquip-sharps-biohazard-needle-container.html"
+                                       class="product-item-link">
+                                        MediQuip Sharps Biohazard Needle Container 1Qt 2Ct                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="44" data-price-box="product-id-44">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-44-widget-new-grid"                data-price-amount="30"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$30.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/mediquipstores.local\/checkout\/cart\/add\/uenc\/aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw%2C%2C\/product\/44\/","data":{"product":44,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                                type="button"
+                                                                title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/wishlist\/index\/add\/","data":{"product":44,"uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       class="action towishlist"
+                                                       data-action="add-to-wishlist"
+                                                       title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mediquipstores.local\/catalog\/product_compare\/add\/","data":{"product":"44","uenc":"aHR0cDovL21lZGlxdWlwc3RvcmVzLmxvY2FsLw,,"}}'
+                                                       title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                    </ol>
+            </div>
+            
+        <div class="pager">
+    
+                <p class="toolbar-amount">
+            <span class="toolbar-number">
+                            Items 1 to 5 of 10 total                        </span>
+        </p>
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+            
+            
+            
+                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You&#039;re currently reading page</span>
+                            <span>1</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="http://mediquipstores.local/?plqabz=2" class="page">
+                            <span class="label">Page</span>
+                            <span>2</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next"
+                       href="http://mediquipstores.local/?plqabz=2"
+                       title="Next">
+                        <span class="label">Page</span>
+                        <span>Next</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+        </div>
+    
+        </div>
+    </div>

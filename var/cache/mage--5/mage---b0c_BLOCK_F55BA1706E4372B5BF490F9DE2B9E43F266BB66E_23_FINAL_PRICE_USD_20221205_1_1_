@@ -1,0 +1,18 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670235054;s:6:"expire";i:1670321454;s:4:"tags";s:46:"b0c_BLOCK_HTML,b0c_CAT_P_23,b0c_CAT_P,b0c_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="23" data-price-box="product-id-23"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+            <span class="price-label">As low as</span>
+        <span  id="product-price-23"                data-price-amount="7.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$7.50</span></span>
+                <meta itemprop="price" content="7.5" />
+        <meta itemprop="priceCurrency" content="USD" />
+    </span>
+</span>
+
+
+</div>
